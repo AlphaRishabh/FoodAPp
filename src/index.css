@@ -1,0 +1,14 @@
+*{background-color: rgb(67, 248, 236); color: rgb(3, 4, 4);}
+.head{
+  text-align: center;
+  margin-top: 100px;
+}
+.btn
+{
+ margin-left: 700px;
+}
+
+label{
+  margin-left: 200px;
+  background-color: rgba(231, 137, 93, 0.808);
+}
